@@ -1,0 +1,40 @@
+106T /public/home/yzhou/hbv/sample/ chr19 hpos 30304178 hsign - vpos 1781 vsign -
+human:
+acaggtaagaccaagaAGGTCCGATCCGTGTATAGACATTAGAGTCTGCCACGGTCAGTC
+viral:
+GACCACGCGTCTGGTTAAATACGGATGTCGGAGGATCATGTTTCTGGAAATTGGATTAGA
+145T /public/home/yzhou/hbv/sample/ chr19 hpos 30303493 hsign + vpos 1025 vsign +
+human:
+TGCCGAGGGAGCGCAGGGAGCGGTGAGTGCCCGCGCCGcggggccggacgggacgggacg
+viral:
+ACGAATTGTGGGTCTTTTGGGTTTTGCTGCCCCTTTTACACAATGTGGTTATCCTGCGTT
+145T /public/home/yzhou/hbv/sample/ chr19 hpos 30303499 hsign - vpos 1077 vsign +
+human:
+gcagggcagggcagggcaggccggggcGCCGCGCCCGTGAGTGGCGAGGGACGCGAGGGA
+viral:
+CCTGCGTTGATGCCTTTGTATGCATGTATTCAATCTAAGCAGGCTTTCACTTTCTCGCCA
+200T /public/home/yzhou/hbv/sample/ chr19 hpos 30315004 hsign + vpos 1806 vsign +
+human:
+AACAAAAGCTTGAAGCTGTGGAGGGCCACGGTGGCGTGGCTCTCCTCGCAGGTGTTCTGG
+viral:
+TAGGAGGCTGTAGGCATAAATTGGTCTGCGCACCAGCACCATGCAACTTTTTCACCTCTG
+268T /public/home/yzhou/hbv/sample/ chr19 hpos 30298808 hsign - vpos 2535 vsign -
+human:
+gacgagttaaacacaacaataatgaGTATTTCTCTAAACCCCCAATAAACGAATCGAAGG
+viral:
+ACCACATTTACATATAATCCTTTTCTACCACAAAAGGTTACTCCTAATTTCTGTCCATGT
+a test chr4 hpos 30604782 hsign + vpos 97 vsign -
+human:
+gcactttgggaggccgaggcgggcggtgcatgaggtcaggagatcgagaacattctggcc
+viral:
+TCTAACTGCTATTCCCTCTCCGTCATCAGTCTTGTCCCAAATGACAAGGACTTGACCTCG
+a test chr16 hpos 61348079 hsign + vpos 298 vsign -
+human:
+tcccatcagccatagccatccacatgggggggaaaaaaaagaaaaacatgtattgttcac
+viral:
+TCCAACCCCTGACGCTTAAAACCGGTTCTGTGTGCCATCAAGGGGGATCTTTTAACTCTC
+a test chr12 hpos 57280740 hsign - vpos 726 vsign +
+human:
+tatattaccccgatgtccgtaacccattcatgtgagtaaggttttccctttttagtcggt
+viral:
+TCAGTGGTTCGTAGGGCTTTCCCCCACTGTTTGGCTTTCAGTTATATGGATGATGTGGTA
